@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @VishnuPriya KA
+- 👋 Hi, I’m VishnuPriya KA
 - 👀 I’m interested in web development
-- 🌱 I’m currently Pursuing MCA
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently Pursuing MCA at Ganadipathy Tulsi's Jain Engineering College...
 - 📫 How to reach me through Gmail vishnupriyaazhagarangan07@gmail.com
 
 
